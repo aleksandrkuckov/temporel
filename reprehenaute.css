@@ -1,0 +1,4 @@
+/* Example CSS for adjusting kerning */
+p {
+  font-kerning: normal; /* Can be 'auto' or 'none' as well */
+}
